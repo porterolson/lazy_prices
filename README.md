@@ -1,4 +1,4 @@
-# lazy_prices
+# Porter Olson Lazy Prices Repo
 Lazy Prices Replication &amp; Extension Repo
 
 `lazy_prices_fixing.ipynb` is my notebook for replicating _Lazy Prices_ using quintile sorts. 
