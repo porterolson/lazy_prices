@@ -7,7 +7,8 @@ Lazy Prices Replication &amp; Extension Repo
 
 `gen_chart_table.ipynb` is my file to generate the tables and charts for my MVE backtest
 
+`testing_metrics` is a folder full of my jupyter notebooks for testing different similarity metrics (e.g. SBERT vectorization, TF-IDF, Distrubitonal Metrics, etc)
 
+`Lazy_Prices_report.pdf` is my report highlighting all the research that I have done regarding this signal.
 
-
-Note I only have 10-K data whereas they have 10-K and 10-Q data.
+_Note I only have 10-K data whereas they have 10-K and 10-Q data._
