@@ -14,7 +14,7 @@ Lazy Prices Replication &amp; Extension Repo
 ----
 
 
-`10k_get_alpha.ipynb` is my file to generate the alpha for my MVE backtest.
+`10k_get_alpha.ipynb` is my file to generate the alpha for my MVE backtest, located in `old`.
 
 `10k_get_alpha_kl.ipynb` is the file for the KL-Divergence version of it. These are both in the `old` directory which used incorrect backtesting return logic.
 
