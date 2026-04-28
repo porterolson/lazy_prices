@@ -23,4 +23,4 @@ Lazy Prices Replication &amp; Extension Repo
 _Note I only have 10-K data whereas they have 10-K and 10-Q data._
 
 Here is an interesting paper that talks about how Gen AI usage is going up finanical reporting. Perhaps there is some signal to be found here.
-Paper: `https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4986017`
+Paper: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4986017](url)
